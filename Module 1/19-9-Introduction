@@ -1,0 +1,72 @@
+Java=>Web Development
+
+Fundamental:
+c
+c++
+
+
+web development
+1)java =>Security
+
+2)php=>
+
+3)python
+
+
+
+4).net=>
+
+
+App Development[Android,ios]
+dart => Flutter
+kotlin/Java => Android
+swift =>Iphone
+
+
+
+Java
+
+SE=>Standard Edition =>Software
+EE=>Enterprise Edition =>Website
+ME=>Mobile Edition=>Mobile App
+ 
+core java ->software
+advance java->website
+framework->website
+
+
+
+Setup=>
+
+JDK setup
+JDK =>Java Development kit =>Compiler
+JRE =>Java Runtime Environment =>System Library
+JVM =>Java Virtual Machine =>Virtual Machine
+
+1.JDK Download and Install 11.0.0 [stable]
+=> https://www.techspot.com/downloads/5553-java-jdk.html
+
+=>Path Set
+i)path ->  C:\Program Files\Java\jdk1.8.0_191\bin
+
+ii)This Pc->Right Click->Properties->Advanced System Settings->Environment Variables
+->New ->Paste your path ->click on OK
+
+iii)Open your CMD aNd type javac
+
+
+
+
+2.Editor-> Eclipse,Netbeans,Notepad,Notepad++,vs code
+Eclipse Download
+
+https://www.eclipse.org/downloads/packages/release/juno/sr2/eclipse-ide-java-developers
+
+
+Batch Project => 
+Individual Project => 
+
+
+
+
+
