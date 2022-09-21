@@ -1,0 +1,43 @@
+module
+
+create
+don't create
+
+Predefined class ->
+User defined class ->
+
+Access Modifier:
+public->Everyone
+private->Friends
+protected->Selected Person
+
+Conditional statement:
+1)if
+2)else
+3)else if
+4)nested if
+5)switch,case,break
+
+looping statement:
+1)for
+2)while
+3)do while
+
+=
+==
+
+a=5 //assign
+a==5
+
+Scanner
+
+class -student
+
+classname objname = new classname();
+student s1 = new student();
+
+
+
+
+
+
