@@ -1,0 +1,31 @@
+Task 1:
+Switch,case,break
+1.Signup
+2.Signin
+
+2 user detail
+m
+m2
+1.
+Your Name
+Your City
+Your Gender
+Your Qualification
+Your Password
+
+Syso("Details Saved");
+
+
+Syso("If you want to login then press 2 for exit press 0");
+
+
+Enter your password
+if(pass.equals("1234"))
+{
+	m
+}
+if(pass.equals("5678"))
+{
+	m2
+}
+
