@@ -1,0 +1,23 @@
+Encapsulation:
+
+Model->setter-getter
+(Bean)
+get
+set
+
+
+Normal->Model class Call
+
+Keywords:
+this->refrence
+static->fixed
+1)Variable
+2)Method
+3)Block
+
+super
+final
+1)Variable
+2)Method
+3)Class
+
