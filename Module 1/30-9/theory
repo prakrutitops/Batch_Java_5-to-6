@@ -1,0 +1,19 @@
+single
+multilevel
+hierarchical
+Multiple is not supporrted in java
+[Diamond Problem]
+solution->interface
+
+interface-collection of abstract methods
+
+void a();
+
+Hybrid Inheritance
+
+Polymorphism:Many Ways to perform anything
+1)Method Overloading
+->when two methods having a same name but number of 
+  parameters are diffrent 
+
+2)Method Overriding
