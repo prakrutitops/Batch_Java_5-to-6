@@ -26,3 +26,21 @@ Switch case.(Must Be Menu Driven)
 
 19. Write a program of to find out the Area of Triangle, Rectangle and Circle
 using If Condition.(Must Be Menu Driven)
+
+----------------------------------------------------------------------------------
+
+B16. W.A.J.P to Take three numbers from the user and print the greatest number.
+
+B17. Write a Java program that takes the user to provide a single character from the alphabet. Print
+Vowel or Consonant, depending on the user input. If the user input is not a letter (between a and z or
+A and Z), or is a string of length > 1, print an error message.
+
+B18. Write a Java program that takes a year from user and print whether that year is a leap year or
+not.
+
+B19. Write a program in Java to display the first 10 natural numbers using while loop.
+
+B20. Write a program in Java to input 5 numbers from keyboard and find their sum and average using
+for loop.
+
+
