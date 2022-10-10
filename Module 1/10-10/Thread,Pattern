@@ -1,0 +1,36 @@
+Thread:It's use to handle the process
+
+1)Single Thread
+2)Multi Thread
+
+2 ways: Class,Interface
+
+Class-Thread
+Interface-Runnable
+
+Thread Lifecycle
+1)init
+2)start
+3)run
+4)stop
+5)destroy
+
+
+*
+**
+***
+****
+*****
+    *
+   **
+  ***
+ ****
+*****
+
+
+
+
+
+
+
+
